@@ -17,3 +17,4 @@ Network intrusion classifier with causal explanations
    ```
    pip install -r requirements.txt
    ```
+4. Download the [NF-BoT-IOT](https://staff.itee.uq.edu.au/marius/NIDS_datasets/) dataset into ./datasets
